@@ -17,13 +17,13 @@ Please report in time before the license expires at spranger@hs-mittweida.de to 
 ## Configuration: mona.ini
 -----------------------
 For MoNA to be able to process large data volumes, the configuration file "mona.ini" residing in the installation folder of MoNA can/must be adjusted.
-It is possible to change the maximum amount of RAM memory that is availabe to MoNA from a default value of 2GB to a higher value, which depends on the available RAM memory of the device MoNA is running on.
+It is possible to change the maximum amount of RAM memory that is availabe to MoNA from a default value of 8GB to a higher value, which depends on the available RAM memory of the device MoNA is running on.
 
 The responsible line in the configuration file is by default like this:
--Xmx2g
+-Xmx8g
 
-This can be adjusted for 4GB of RAM like this:
--Xmx4g
+For example, this can be adjusted for 16GB of RAM like this:
+-Xmx16g
 
 A suggestion would be to not use the complete amount of RAM memory of a device for MoNA, depending on the number of programs running parallel to MoNA, a fourth of the overal RAM memory should stay unreserved.
 The amount of RAM specified in the configuration file of MoNA will also be allocated dynamically and only when needed by MoNA.
