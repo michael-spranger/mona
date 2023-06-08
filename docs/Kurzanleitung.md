@@ -17,13 +17,13 @@ Bitte melden Sie sich rechtzeitig vor deren Ablauf unter spranger@hs-mittweida.d
 ## Konfiguration: mona.ini
 -----------------------
 Um größere Datenmengen verarbeiten zu können, kann bzw. muss die Datei "mona.ini" im MoNA-Installationsverzeichnisses angepasst werden.
-In dieser Konfigurationsdatei kann der maximal von MoNA verwendbare Arbeitsspeicher von standardmäßig 2GB auf einen höheren Wert eingestellt werden, abhängig davon, wieviel Arbeitsspeicher auf dem Gerät verfügbar ist, auf dem MoNA betrieben wird.
+In dieser Konfigurationsdatei kann der maximal von MoNA verwendbare Arbeitsspeicher von standardmäßig 8GB auf einen höheren Wert eingestellt werden, abhängig davon, wieviel Arbeitsspeicher auf dem Gerät verfügbar ist, auf dem MoNA betrieben wird.
 
 Die entsprechende Zeile in der Konfigurationsdatei lautet in der Ursprungsform:
--Xmx2g
+-Xmx8g
 
-Dieser Wert kann entsprechend für 4GB folgendermaßen geändert werden:
--Xmx4g
+Dieser Wert kann beispielsweise für 16GB folgendermaßen geändert werden:
+-Xmx16g
 
 Als Empfehlung sollte hier nicht der gesamte Arbeitsspeicher eines Gerätes angegeben werden, je nach den zusätzlich zu MoNA verwendeten Programmen sollte 1/4 des Arbeitsspeichers für andere Programme übrig bleiben.
 Die in der Konfigurationsdatei angegebene Menge an Arbeitsspeicher für MoNA wird zudem dynamisch und erst bei Bedarf auch tatsächlich in Anspruch genommen.
