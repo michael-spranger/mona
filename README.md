@@ -3,8 +3,6 @@ With MoNA, we present a platform for analysing mobile communication developed at
 
 ## For a short Intro click [here](https://cbc.hs-mittweida.de/index.php/s/gTDEG3rnG9GS9JT).
 
-<video src="https://cbc.hs-mittweida.de/index.php/s/gTDEG3rnG9GS9JT"></video>
-
 ![MoNA](images/mona_4_0_0.png)
 
 ## Semantic Media Analysis
