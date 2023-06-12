@@ -3,6 +3,8 @@ With MoNA, we present a platform for analysing mobile communication developed at
 
 [![MoNA Trailer](https://img.youtube.com/vi/LDnXRwnR76c/maxresdefault.jpg)](https://youtu.be/LDnXRwnR76c)
 
+{% include youtube.html id="LDnXRwnR76c" %}
+
 ## Semantic Media Analysis
 ![Semantic Media Analysis](images/semantic_media_analysis.png)
 
