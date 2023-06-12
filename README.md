@@ -1,22 +1,53 @@
-# The Mobile Network Analyzer (MoNA)
-With MoNA, we present a platform for analysing mobile communication developed at Mittweida University of Applied Sciences in collaboration with various LEAs. MoNA integrates highly specialised AI services to support deep semantic analysis of communications across different channels and involving different modalities, such as video, images, audio, etc. The aim is to reduce the investigator's effort in searching for evidential information in networks. The core services such as Topic Modeling, Term Tree (Contextual Pattern Matcher), Author Profiling or Search Term Recommender are completely unsupervised, i.e. the analysis is based solely on data and no additional training is required.
+# WhatATheme
+**WhatATheme** is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio.
 
-[![MoNA Trailer](https://img.youtube.com/vi/LDnXRwnR76c/maxresdefault.jpg)](https://youtu.be/LDnXRwnR76c)
+#### You can checkout the [**Demo Here**](https://thedevslot.github.io/WhatATheme/) :boom:
 
-## Semantic Media Analysis
-![Semantic Media Analysis](images/semantic_media_analysis.png)
+![WhatATheme](assets/images/meta.jpg)
 
-## Term Tree with Semantic Dictionaries
-![Term Tree with Semantic Dictionaries](images/termtree.png)
+# Features :sparkles:
+* Free and Easy setup
+* No Coding Required
+* Compatible with [Github Pages](https://pages.github.com/)
+* Responsive and Blogging Ready
+* HTML Compressor using [Jekyll Compress HTML](https://jch.penibelst.de/)
+* Minified CSS using SaSS
+* CMS Admin Support using [Jekyll Admin](https://jekyll.github.io/jekyll-admin/)
+* Supports Latest [Jekyll 4.x](https://jekyllrb.com/) and [Bundler](https://bundler.io/)
+* Stylesheet built using SaSS
+* Comments using Disqus
+* Analytics using Google Analytics
+* Instant Search using [Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search/)
 
-## Conversation Reduction via Topic Modeling
-![Conversation Reduction via Topic Modeling](images/topic_modeling.png)
+# Installation :books:
+### System Requirements
+* [Ruby](https://www.ruby-lang.org/en/)
+* [Jekyll](https://jekyllrb.com/)
+> You can read **What is Jekyll** [**here**](https://thedevslot.github.io/WhatATheme/blog/what-is-jekyll-how-to-use-it)
+### Up and Running
+* Fork the [Repository](https://github.com/thedevslot/WhatATheme/)
+* Clone or download the repository into directory of your choice: `git clone https://github.com/thedevslot/WhatATheme.git`
+* Inside the directory run `bundle install`
+* Host WhatATheme locally by running `bundle exec jekyll s`
 
-## Advanced Search Support
-![Advanced Search Support](images/search_support.png)
+> You can read **How to Install and use WhatATheme?** [**here**](https://thedevslot.github.io/WhatATheme/blog/how-to-install-whatatheme)
 
-## Publications
+[<img src="https://i.imgur.com/TVI946Z.png" width="250" />](https://youtu.be/VfPa2c9kwhQ)
 
-- Spranger, Michael, Florian Heinke, Luisa Appelt, Marcus Puder, und Dirk Labudde. 2016. "MoNA: Automated Identification of Evidence in Forensic Short Messages". International Journal On Advances in Security 9(1 & 2):14–24.
-- Spranger, Michael, Jian Xi, Lukas Jaeckel, Jenny Felser, und Dirk Labudde. 2022. "MoNA: A Forensic Analysis Platform for Mobile Communication". KI - Künstliche Intelligenz 36(2):163–69. doi: 10.1007/s13218-022-00762-w.
-- Felser, Jenny, Xi, Jian, Demus, Christoph, Labudde, Dirk, und Spranger, Michael. 2022. "Recommendation of Query Terms for Colloquial Texts in Forensic Text Analysis". INFORMATIK 2022 - Informatik in Den Naturwissenschaften P326. doi: 10.18420/INF2022_02.
+---
+
+### Content Credits :green_heart:
+* [Hero Image](https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) used as a background image in the very first section of Homepage.
+* [Author Image](https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png) used in the Author Section.
+* [Font Awesome](https://fontawesome.com/)
+* [Poppins Font](https://fonts.google.com/specimen/Poppins)
+* [Memphis Pattern](https://www.freepik.com/free-vector/memphis-pattern-background_4034913.htm#page=1&query=memphis%20pattern&position=23) used for some Social Media Images and the Favicon.
+
+---
+
+### Credits :bulb:
+* [Sneha Omer](http://sassyecoder.github.io/)
+* [Harsh Trivedi](http://harsh98trivedi.github.io/)
+
+### License
+The contents of this repository are licensed under the [**GNU General Public License v2.0**](https://github.com/thedevslot/WhatATheme/blob/master/LICENSE)
