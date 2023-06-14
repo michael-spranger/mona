@@ -1,20 +1,20 @@
 - name: Releases
-  image: ../assets/images/download_mona.png
+  image: https://github.com/Forensic-Science-Investigation-Lab/mona/blob/487436845b6a457d986f63632f71deec9149639c/docs/assets/images/download_mona.png
   link: https://cbc.hs-mittweida.de/index.php/s/SrNFK94HwQweE73
   description: Here you can get the MoNA basic version, without additional AI services.
 - name: Manual
   link: https://cbc.hs-mittweida.de/index.php/s/XRtDySARKAD9CEP
-  image: ../assets/images/download_manual.png
+  image: https://github.com/Forensic-Science-Investigation-Lab/mona/blob/487436845b6a457d986f63632f71deec9149639c/docs/assets/images/download_manual.png
   description: Here you can find the latest manual for MoNA and additional documentation.
 - name: Hate Speech
   link: https://cbc.hs-mittweida.de/index.php/s/JTSEEJ4exF8zpr7
-  image: ../assets/images/download_hsmodels.png
+  image: https://github.com/Forensic-Science-Investigation-Lab/mona/blob/main/docs/assets/images/download_hsmodels.png
   description: Here you can find hate speech detection models for different languages.
 - name: Media Analysis
   link: https://cbc.hs-mittweida.de/index.php/s/YEeLQpDxXgWfKzQ
-  image: ../assets/images/download_media.png
+  image: https://github.com/Forensic-Science-Investigation-Lab/mona/blob/487436845b6a457d986f63632f71deec9149639c/docs/assets/images/download_media.png
   description: Here you can find the media analysis server and related scripts.
 - name: Translation
   link: https://github.com/LibreTranslate/LibreTranslate/archive/refs/heads/main.zip
-  image: ../assets/images/download_translation.png
+  image: https://github.com/Forensic-Science-Investigation-Lab/mona/blob/487436845b6a457d986f63632f71deec9149639c/docs/assets/images/download_translation.png
   description: Here you can find the translation service from LibreTranslate.

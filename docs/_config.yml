@@ -18,8 +18,7 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.unsplash.com/photo-1644088379091-d574269d422f
-# heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: https://github.com/Forensic-Science-Investigation-Lab/mona/blob/487436845b6a457d986f63632f71deec9149639c/docs/assets/images/heroimage.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
