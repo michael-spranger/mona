@@ -1,7 +1,7 @@
 ---
 title: MoNA - Installation, configuration and start of the application
 layout: post
-post-image: https://github.com/Forensic-Science-Investigation-Lab/mona/blob/487436845b6a457d986f63632f71deec9149639c/docs/assets/images/quick_start_guide.png
+post-image: https://raw.githubusercontent.com/Forensic-Science-Investigation-Lab/mona/main/docs/assets/images/quick_start_guide.png
 description: This tutorial will guide you to install and configure MoNA and take the first steps to analyze mobile devices.
 version: 4.0.3
 tags:

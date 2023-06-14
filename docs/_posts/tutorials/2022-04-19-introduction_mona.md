@@ -1,7 +1,7 @@
 ---
 title: MoNA - Introduction
 layout: post
-post-image: https://github.com/Forensic-Science-Investigation-Lab/mona/blob/487436845b6a457d986f63632f71deec9149639c/docs/assets/images/mona_introduction_35.png
+post-image: https://raw.githubusercontent.com/Forensic-Science-Investigation-Lab/mona/main/docs/assets/images/mona_introduction_35.png
 description: In this tutorial you will get a comprehensive introduction to MoNA.
 version: 3.5.0
 m_time: 163
