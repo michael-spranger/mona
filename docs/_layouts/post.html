@@ -33,6 +33,10 @@ layout: compress
               <b>{{ page.date | date: "%-B %d, %Y" }}</b> by <a href="{% if site.author-url %}{{site.author-url}}{% else %}{{site.url}}{{site.baseurl}}/#about{% endif %}" target="_blank"><b class="has-text-link"><u>{{site.author-name}}</u></b>
               </a>
             </p>
+            <p class="subtitle is-6 is-uppercase has-text-weight-normal has-text-black-ter">MoNA Version
+              <b>{{ page.version }}</b>
+              </a>
+            </p>
             {%- assign tags = page.tags -%}
             {%- unless tags.size == 0 -%}
             <p class="subtitle is-uppercase">
@@ -47,8 +51,8 @@ layout: compress
             {% assign words = content | number_of_words %}
             {%- unless content.size == 0 -%}
             <p class="subtitle is-uppercase"><i class="fas fa-clock"></i> <b class="has-text-link">
-                {{ words | divided_by:180 }} min
-              </b>READ</p>
+                {{ words | divided_by:180 | plus:page.m_time }} min
+              </b>READ/WATCH</p>
             {%- endunless -%}
           </div>
         </div>

@@ -82,6 +82,12 @@ a.navbar-item.is-active {
         min-width: 25vmax;
         margin: 0.5rem;
     }
+
+    .video {
+        aspect-ratio: 16 / 9;
+	    height: 100%;
+	    width: 100%;
+    }
 }
 
 #contact {
@@ -233,8 +239,6 @@ a.navbar-item.is-active {
             }
 
             figure {
-                border: 1.5px solid white;
-                border-radius: 50rem;
                 justify-content: center;
                 margin: auto;
                 transition: all 0.25s ease;

@@ -19,9 +19,9 @@ layout: compress
         <div id="results-container"></div>
         <!--Blog Cards Section-->
         {% for post in site.posts %}
-            {% unless post.tags contains "release notes" %}
+            {% if post.tags contains "release notes" %}
                 {% include blog-card.html %}
-            {% endunless %}
+            {% endif %}
         {% endfor %}
         </div>
     </section>

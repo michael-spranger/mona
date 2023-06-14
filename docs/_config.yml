@@ -11,7 +11,7 @@ title: MoNA
 # Description of the Site
 description: The Mobile Network Analyzer
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
@@ -26,9 +26,9 @@ heroimage: https://images.unsplash.com/photo-1644088379091-d574269d422f
 email: spranger@hs-mittweida.de
 #facebook_username: /
 #twitter_username: /
-#instagram_username: /
+instagram_username: forensik.studyweida
 #linkedin_username: /
-github_username:  Forensic-Science-Investigation-Lab
+#github_username:  Forensic-Science-Investigation-Lab
 #youtube_channel_id: /
 #reddit_username: /
 #behance_username: /
@@ -36,19 +36,19 @@ github_username:  Forensic-Science-Investigation-Lab
 #spotify_username: /
 
 # Google Analytics
-google-analytics: UA-163806439-1
+#google-analytics:
 
 # Disqus
-disqus-shortname: thedevslot
+#disqus-shortname:
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: Michael Spranger
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: /
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: With MoNA, we present a platform for analysing mobile communication developed at Mittweida University of Applied Sciences in collaboration with various LEAs. MoNA integrates highly specialised AI services to support deep semantic analysis of communications across different channels and involving different modalities, such as video, images, audio, etc. The aim is to reduce the investigator's effort in searching for evidential information in networks. The core services such as Topic Modeling, Term Tree (Contextual Pattern Matcher), Author Profiling or Search Term Recommender are completely unsupervised, i.e. the analysis is based solely on data and no additional training is required.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: mailto:spranger@hs-mittweida.de
 
 # SASS
 sass:
@@ -61,7 +61,7 @@ plugins:
   - jekyll-feed
 
 # Permalink
-permalink: "blog/:title"
+permalink: "tutorials/:title"
 
 # Compress
 compress_html:
