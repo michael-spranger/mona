@@ -1,4 +1,3 @@
-# WhatATheme
 markdown: kramdown
 
 # URL of the Site
@@ -13,7 +12,7 @@ description: The Mobile Network Analyzer
 # URL of Image of the Site
 site-image: assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: MoNA, Mobile Network Analyzer, digital forensics, forensic, investigation, law enforcement, cybercrime, instant messaging, mobile communication
 # URL for the Image of custom Favicon
 favicon-url: https://raw.githubusercontent.com/Forensic-Science-Investigation-Lab/mona/main/docs/assets/images/mobile-icon32.png
 
@@ -40,11 +39,11 @@ instagram_username: forensik.studyweida
 # Disqus
 #disqus-shortname:
 
-# Name of the Author
+# Name of the Author/Developer
 author-name: Michael Spranger
-# URL for the Image of the Author
+# URL for the Image of the Software
 author-image: /
-# 60 Words About the Author
+# 60 Words About the Software
 author-about: With MoNA, we present a platform for analysing mobile communication developed at Mittweida University of Applied Sciences in collaboration with various LEAs. MoNA integrates highly specialised AI services to support deep semantic analysis of communications across different channels and involving different modalities, such as video, images, audio, etc. The aim is to reduce the investigator's effort in searching for evidential information in networks. The core services such as Topic Modeling, Term Tree (Contextual Pattern Matcher), Author Profiling or Search Term Recommender are completely unsupervised, i.e. the analysis is based solely on data and no additional training is required.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: mailto:spranger@hs-mittweida.de
