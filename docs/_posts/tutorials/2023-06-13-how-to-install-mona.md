@@ -12,7 +12,7 @@ tags:
 
 # Installation
 ------------
-1. Download the current version of MoNA (from the Moodle website).
+1. Download the latest version of MoNA from the [Download]({{site.url}}{{site.baseurl}}/download) area.
 2. Extract the downloaded archive.
 3. Move the main folder to a disk drive without access restrictions.
 4. Windows users:  Add the MoNA main folder as an exception in the Windows Defender settings (see the added section on "Adjusting of Windows Defender" for details).
