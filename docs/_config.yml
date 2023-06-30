@@ -12,7 +12,7 @@ description: The Mobile Network Analyzer
 # URL of Image of the Site
 site-image: assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: MoNA, Mobile Network Analyzer, digital forensics, forensic, investigation, law enforcement, cybercrime, instant messaging, mobile communication
+site-keywords: MoNA, Mobile Network Analyzer, software, forensics, investigation, law enforcement, cybercrime, instant messaging, mobile communication, analysis
 # URL for the Image of custom Favicon
 favicon-url: https://raw.githubusercontent.com/Forensic-Science-Investigation-Lab/mona/main/docs/assets/images/mobile-icon32.png
 
